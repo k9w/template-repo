@@ -11,7 +11,7 @@ describe('', () => {
     
   });
 
-  it('should correctly *do something esle*', () => {
+  it('should correctly *do something else*', () => {
     
   });
   
@@ -28,7 +28,7 @@ describe('', () => {
     
   });
 
-  test('should correctly *do something esle*', () => {
+  test('should correctly *do something else*', () => {
     
   });
   
